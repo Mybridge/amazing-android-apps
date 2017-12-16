@@ -16,7 +16,7 @@ If you want to learn how to develop an Android app, these courses are recommende
 
 No 1) [Android & Java Beginner: Mobile App Development: Go from beginner to paid professional app developer.](http://bit.ly/2ynlxYB) 14,018 recommends, 4.7/5 stars
 
-No 2) [Kotlin for Java Developers: Use your Java skills to learn Kotlin fast and build Android apps.](http://bit.ly/2z8XUH3) 2,045 recommends, 4.6/5 stars
+No 2) [Kotlin for Android: Beginner to Advanced.](http://bit.ly/2k2cFU2) 1,893 recommends, 4.6/5 stars
 
 
 <br>
