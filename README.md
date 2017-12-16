@@ -7,7 +7,7 @@ This is an extremely competitive list of open source Android apps. It carefully 
 
 The apps are broken down into 13 groups: Social Networking, News, Photos & Videos, Productivity, Music, Game, Messaging, Media, Finance, Architecture, Utilities, Reference, Weather.
 
-[Mybridge](www.mybridge.co) initially picked the apps. You're welcome to contribute, but let's make sure the quality of an app is great.
+[Mybridge](www.mybridge.co) initially picked the apps. You're welcome to contribute. Let's make sure the quality of app is great.
 
 
 ## Learn
@@ -18,8 +18,10 @@ No 1) [Android & Java Beginner: Mobile App Development: Go from beginner to paid
 No 2) [Kotlin for Java Developers: Use your Java skills to learn Kotlin fast and build Android apps.](http://bit.ly/2z8XUH3) 2,045 recommends, 4.6/5 stars
 
 
+<br>
 
-## Apps
+
+## Amazing Apps
 #### Social Networking
 * [Android-oss: Official Kickstarter open source app for Android. Bring new ideas to life, anywhere. ★4,233](https://github.com/kickstarter/android-oss?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
