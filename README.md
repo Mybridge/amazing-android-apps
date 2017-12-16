@@ -2,7 +2,7 @@
 
 This is “amazing” series of open source projects. Also see the post published [here](https://medium.mybridge.co/38-amazing-android-open-source-apps-java-1a62b7034c40)
 
-This is an extremely competitive list of open source Android apps. It carefully picks the best Android apps written in Java that are open source. To give you an idea about the quality of this list, the average number of Github stars is <b>3,874.</b>
+This is an extremely competitive list of open source Android apps. It carefully picks the best Android apps written in Java that are open source. To give you an idea about the quality of this list, <b>the average number of Github stars is 3,874.</b>
 
 The apps are broken down into 13 groups: Social Networking, News, Photos & Videos, Productivity, Music, Game, Messaging, Media, Finance, Architecture, Utilities, Reference, Weather.
 
