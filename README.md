@@ -1,15 +1,12 @@
-# amazing-android-apps
-Amazing open source Android apps written in Java
+#Amazing open source Android apps written in Java
 
-This is “amazing” series of open source projects.
-
-Also see the post published [here](https://medium.mybridge.co/38-amazing-android-open-source-apps-java-1a62b7034c40)
+This is “amazing” series of open source projects. Also see the post published [here](https://medium.mybridge.co/38-amazing-android-open-source-apps-java-1a62b7034c40)
 
 This is an extremely competitive list of open source Android apps. and it carefully picks the best Android apps written in Java that are currently open source. To give you an idea about the quality of this list, currently the average number of Github stars is <b>3,874.</b>
 
 The apps are broken down into 13 groups: Social Networking, News, Photos & Videos, Productivity, Music, Game, Messaging, Media, Finance, Architecture, Utilities, Reference, Weather.
 
-Mybridge initially picked the apps. You're welcome to contribute, but let's make sure only quality apps are submitted.
+[Mybridge](www.mybridge.co) initially picked the apps. You're welcome to contribute, but let's make sure only quality apps are submitted.
 
 
 ## Learn
@@ -18,6 +15,7 @@ If you want to learn how to develop an Android app, these courses are recommende
 No 1) [Android Beginner: Android O & Java — Mobile App Development: Go from beginner to paid professional app developer.](http://bit.ly/2ynlxYB) 14,018 recommends, 4.7/5 stars
 
 No 2) [Kotlin: Kotlin for Java Developers: Use your Java skills to learn Kotlin fast and build Android apps.](http://bit.ly/2z8XUH3) 2,045 recommends, 4.6/5 stars
+
 
 
 ## Apps
