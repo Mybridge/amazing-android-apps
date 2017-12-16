@@ -1,4 +1,4 @@
-#Amazing open source Android apps written in Java
+# Amazing open source Android apps written in Java
 
 This is “amazing” series of open source projects. Also see the post published [here](https://medium.mybridge.co/38-amazing-android-open-source-apps-java-1a62b7034c40)
 
