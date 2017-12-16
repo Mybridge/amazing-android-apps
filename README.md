@@ -7,8 +7,9 @@ This is an extremely competitive list of open source Android apps. It carefully 
 
 The apps are broken down into 13 groups: Social Networking, News, Photos & Videos, Productivity, Music, Game, Messaging, Media, Finance, Architecture, Utilities, Reference, Weather.
 
-[Mybridge](www.mybridge.co) initially picked the apps. You're welcome to contribute. Let's make sure the quality of app is great.
+[Mybridge](https://www.mybridge.co) initially picked the apps. You're welcome to contribute. Let's make sure the quality of app is great.
 
+<br>
 
 ## Learn
 If you want to learn how to develop an Android app, these courses are recommended
