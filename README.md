@@ -62,6 +62,8 @@ No 2) [Kotlin for Android: Beginner to Advanced.](http://bit.ly/2k2cFU2) 1,893 r
 
 * [Shuttle Music Player. ★1,475](https://github.com/timusus/Shuttle?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
+* [Vanilla: A Music Player with Plugins. ★472](https://github.com/vanilla-music/vanilla?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+
 
 #### Game
 * [Pixel-dungeon: Traditional roguelike game with pixel-art graphics and simple interface. ★1,758](https://github.com/watabou/pixel-dungeon?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
