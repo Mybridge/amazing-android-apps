@@ -100,6 +100,8 @@ No 2) [Kotlin for Android: Beginner to Advanced.](http://bit.ly/2k2cFU2) 1,893 r
 
 * [GnuCash Android: A companion expense-tracker application. ★690](https://github.com/codinguser/gnucash-android?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
+* [StocksWidget - A home screen widget that displays stock price quotes from your portfolio. ★107] (https://github.com/premnirmal/StockTicker?utm_source=mybridge&utm_medium=email&utm_campaign=read_more) Kotlin
+
 
 #### Architecture
 * [Android-CleanArchitecture: A sample app on how to architect an android app using Uncle Bob's clean architecture approach. ★10,476](https://github.com/android10/Android-CleanArchitecture?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
