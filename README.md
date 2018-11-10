@@ -38,6 +38,8 @@ No 2) [Kotlin for Android: Beginner to Advanced.](http://bit.ly/2k2cFU2) 1,893 r
 
 * [Materialistic: A material-design Hacker News Android reader. ★1,429](https://github.com/hidroh/materialistic?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
+* [DroidFeed: Curated news feed for Android Developers ★37](https://github.com/dgngulcan/droid-feed)
+
 
 #### Photos & Videos
 * [Telecine: Record full-resolution video on your Android devices. ★2,127](https://github.com/JakeWharton/Telecine?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
