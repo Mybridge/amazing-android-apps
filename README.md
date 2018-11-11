@@ -80,10 +80,10 @@ No 2) [Kotlin for Android: Beginner to Advanced.](http://bit.ly/2k2cFU2) 1,893 r
 
 * [Qksms: The most beautiful SMS messenger app for Android. ★1,676](https://github.com/moezbhatti/qksms?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
-* [ExoPlayer: An extensible media player for Android - Google Engineering. ★8,555](https://github.com/google/ExoPlayer?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
-
 
 #### Media
+* [ExoPlayer: An extensible media player for Android - Google Engineering. ★8,555](https://github.com/google/ExoPlayer?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+
 * [VLC media player official for Android App. ★3,365](https://github.com/videolan/vlc?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
 * [AntennaPod: A podcast manager for Android. ★1,728](https://github.com/AntennaPod/AntennaPod?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
