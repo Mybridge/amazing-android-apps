@@ -82,6 +82,7 @@ No 2) [Kotlin for Android: Beginner to Advanced.](http://bit.ly/2k2cFU2) 1,893 r
 
 * [ExoPlayer: An extensible media player for Android - Google Engineering. ★8,555](https://github.com/google/ExoPlayer?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
+* [Opcon: An social network application that offers to users a lot of innovation like notifier and profile updater. ★0](https://github.com/mahmuttaskiran/Opcon?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
 #### Media
 * [VLC media player official for Android App. ★3,365](https://github.com/videolan/vlc?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
