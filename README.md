@@ -112,7 +112,7 @@ No 2) [Kotlin for Android: Beginner to Advanced.](http://bit.ly/2k2cFU2) 1,893 r
 
 
 #### Utilities
-* [Shadowsocks client: A secure socks5 proxy. Surf the internet privately and securely. ★10,893](https://github.com/shadowsocks/shadowsocks-android?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+* [Shadowsocks client: A secure socks5 proxy. Surf the internet privately and securely. ★10,893](https://github.com/shadowsocks/shadowsocks-android?utm_source=mybridge&utm_medium=email&utm_campaign=read_more) <b> - Kotlin </b>
 
 * [SoundRecorder: A simple sound recording app implementing Material Design. ★626](https://github.com/dkim0419/SoundRecorder?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
