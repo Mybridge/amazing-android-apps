@@ -1,4 +1,4 @@
-# Amazing open source Android apps
+# Amazing open source Android app project
 <img src="background.png" width="800" alt="Mybridge"></a>
 
 This is “amazing” series of open source projects. See the post published with images: [here](https://medium.mybridge.co/38-amazing-android-open-source-apps-java-1a62b7034c40)
