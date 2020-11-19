@@ -116,6 +116,8 @@ No 2) [Kotlin for Android: Beginner to Advanced.](http://bit.ly/2k2cFU2) 1,893 r
 
 * [SoundRecorder: A simple sound recording app implementing Material Design. ★626](https://github.com/dkim0419/SoundRecorder?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
+* [ownCloud: Android App enables you to connect Android devices to a private ownCloud Server running in your data center. ★3005](https://github.com/owncloud/androidutm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+
 
 #### Reference
 * [iosched: The Google I/O 2017 Android App. ★15,197](https://github.com/google/iosched?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
